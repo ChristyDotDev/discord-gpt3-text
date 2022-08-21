@@ -1,0 +1,25 @@
+{
+  "name": "discord-gpt3-text",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christytc10/discord-gpt3-text.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christytc10/discord-gpt3-text/issues"
+  },
+  "homepage": "https://github.com/christytc10/discord-gpt3-text#readme",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.1",
+    "discord.js": "^14.2.0",
+    "dotenv": "^16.0.1",
+    "openai": "^3.0.0"
+  }
+}
